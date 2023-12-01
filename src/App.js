@@ -37,7 +37,7 @@ function App() {
     }, []); // Empty dependency array ensures this effect runs only once on mount
 
     return (
-        <BrowserRouter>
+        <BrowserRouter basename={process.env.PUBLIC_URL}>
             <Routes>
                 <Route path="/" element={<Home/>}/>
                 <Route path="/Home" element={<Home/>}/>
