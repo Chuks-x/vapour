@@ -2,7 +2,7 @@
   "name": "vapour",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://d1prosecutor.github.io/Vapour",
+  "homepage": "https://d1prosecutor.github.io/vapour",
   "dependencies": {
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
