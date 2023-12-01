@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Vapour/static/css/main.9474b0a1.css",
+    "main.js": "/Vapour/static/js/main.e9711a26.js",
+    "static/media/game_collection.jpg": "/Vapour/static/media/game_collection.3de6893457d2fc4660b5.jpg",
+    "static/media/apex_legends.jpg": "/Vapour/static/media/apex_legends.efa923fb36a6e3567f5e.jpg",
+    "static/media/friend.jpg": "/Vapour/static/media/friend.cbc34d6311e9aac200ec.jpg",
+    "static/media/vapour_logo.svg": "/Vapour/static/media/vapour_logo.9e651666adaa0d78712152f2fa02e5e2.svg",
+    "index.html": "/Vapour/index.html",
+    "main.9474b0a1.css.map": "/Vapour/static/css/main.9474b0a1.css.map",
+    "main.e9711a26.js.map": "/Vapour/static/js/main.e9711a26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9474b0a1.css",
+    "static/js/main.e9711a26.js"
+  ]
+}
