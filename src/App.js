@@ -37,7 +37,7 @@ function App() {
     }, []); // Empty dependency array ensures this effect runs only once on mount
 
     return (
-        <BrowserRouter basename={process.env.PUBLIC_URL}>
+        <BrowserRouter basename={"/Vapour"}>
             <Routes>
                 <Route path="/" element={<Home/>}/>
                 <Route path="/Home" element={<Home/>}/>
